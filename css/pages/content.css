@@ -1,0 +1,48 @@
+.cardd span i{
+    background-color: #ff6000;
+    color: white;
+    border-radius: 50%;
+    font-size: 29px;
+    padding: 20px;
+}
+.cardd{
+    padding: 70px 0;
+}
+.cardd h4{
+    font-size: 19px;
+    margin: 15px 0;
+}
+.cardd p{
+    color: gray;
+    font-size: 14px;
+}
+.cardd .card2{
+    padding: 50px 0;
+    box-shadow: 0px 0px 2px 0px black;
+}
+.over input{
+    margin: 10px 0;
+    width: 99%;
+    padding: 13px;
+    border: 1px solid rgb(0 0 0 / 9%);
+    border-radius: 4px;
+}
+.over .inb{
+    position: relative;
+}
+.over .inb span i{
+    position: absolute;
+    top: 28px;
+    right: 17px;
+    color: gray;
+}
+.over textarea{
+    border: 1px solid #0000001a;
+}
+.over button{
+    background-color: #ff6000;
+    color: white;
+    padding: 15px 45px;
+    font-size: 18px;
+    margin: 18px 0;
+}

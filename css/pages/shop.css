@@ -1,0 +1,19 @@
+.inputs input{
+    width: 100%;
+    padding: 12px 23px;
+}
+.inputs p{
+    color: gray;
+    font-size: 14px;
+}
+.inputs label{
+    padding: 3px 0;
+    font-weight: 400;
+}
+.inputs button{
+    background-color: #ff6000;
+    color: white;
+    padding: 10px 28px;
+    margin: 10px;
+    font-size: 19px;
+}

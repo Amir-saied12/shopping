@@ -1,0 +1,76 @@
+.about{
+    background-image: url(../../img/bg-3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 70px;
+}
+.about h2{
+    font-size: 45px;
+    text-transform: uppercase;
+}
+.btn-bg-about{
+    display: inline-block;
+    background-color: white;
+    padding: 15px 45px;
+    border-radius: 25px;
+}
+.gray{
+    color: gray;
+}
+.txt-about2 h2{
+    margin-top: 20px;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+.txt-about2 p{
+    color: gray;
+    font-size: 13px;
+    line-height: 1.9;
+    font-weight: 500;
+    padding: 20px 0;
+}
+.txt-about2 span{
+    color: #FF6000;
+    font-size: 20px;
+} 
+.txt-ico i{
+    font-size: 44px;
+}
+.txt-ico small{
+    color: grey;
+}
+.txt-ico span{
+    color: gray;
+}
+/*                              */
+
+.color2{
+    background-color: #F2F2F2;
+}
+.pepar{
+    padding: 25px;
+    background-color: white;
+}
+.pepar i{
+    font-size: 44px;
+    color: #FF6000;
+}
+.pepar h3{
+    font-size: 20px;
+}
+.pepar p{
+    font-size: 15px;
+    color: gray;
+    font-weight: 400;
+    line-height: 1.6;
+}
+.pepar ul li{
+    font-size: 15px;
+    color: gray;
+    font-weight: 400;
+    line-height: 1.6;
+}
+.pepar ul {
+    padding-left: 0;
+}

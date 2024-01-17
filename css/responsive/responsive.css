@@ -1,0 +1,44 @@
+@media screen and (max-width: 1450px) {
+  .cards .overley .ley {
+    top: 253px!important;
+}
+}
+@media screen and (max-width: 1182px) {
+  .respo .scale{
+    transform: none;
+  }
+  .respo .card{
+    margin: 10px 0;
+  }
+  .pepar {
+    margin: 10px;
+}
+}
+@media screen and (max-width: 1168px) {
+  .btn-rt .yellow-btn {
+    position: absolute;
+    left: 25%;
+  }
+  .txt-bg {
+    width: 45%;
+    padding-inline-start: 50px;
+    position: absolute;
+    top: 57%;
+}
+}
+@media screen and (max-width: 992px) {
+    .cards .overley .ley{
+      top: 159px !important;
+    }
+    .cards .overley {
+      height: 66% ;
+    }
+    .bg-img .txt-bg{
+      width: 43%;
+    }
+  }
+  @media screen and (max-width: 534px) {
+    ul.respon {
+      display: inline-block;
+  }
+  }

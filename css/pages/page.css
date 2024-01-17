@@ -1,0 +1,29 @@
+.eror-404 form button{
+    padding: 10px 15px;
+    border: 1px solid #d9d9d9;
+    background-color: #e2e2e2;
+}
+.eror-404 form input{
+    padding: 9px;
+    width: 80%;
+}
+.eror-404 form{
+    margin: 15px 0;
+}
+.eror-404 .btn-prv{
+    background-color: #ff6000;
+    color: white;
+    padding: 10px 20px;
+}
+.eror-404{
+    padding: 70px 0;
+}
+.eror-404 p{
+    font-size: 14px;
+    color: gray;
+    padding: 10px 0;
+}
+.eror-404 h2{
+    font-size: 180px;
+    color: #ff6000;
+}

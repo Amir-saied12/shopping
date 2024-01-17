@@ -1,0 +1,255 @@
+.bg-img{
+    height: 100vh;
+    background-image: url(../../img/bg-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.txt-bg{
+    padding-inline-start: 50px;
+    position: absolute;
+    top: 33%;
+}
+.txt-bg h2{
+    font-size: 50px;
+    line-height: .9;
+    font-weight: 500;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+.txt-bg h5{
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+.txt-bg p{
+    color: #3B3B3B;
+}
+.txt-bg a{
+    color: #252525;
+    display: inline-block;
+    background-color: #F7BA01;
+    padding: 9px 18px;
+    margin-bottom: 30px;
+}
+/*                                      */
+
+.menu{
+    background-color: rgb(228, 228, 228);
+    padding: 10px 34px;
+    border-radius: 25px;
+}
+button.red{
+    color: red;
+}
+.red{
+    color: red;
+}
+.grey{
+    color: #3B3B3B;
+}
+.txt-crd{
+    padding: 15px;
+}
+.style{
+    font-size: 12px;
+}
+.ico-crdd span i{
+    font-size: 12px;
+}
+.title h5 a{
+    color: black;
+    transition: all .5s;
+}
+.title h5 a:hover{
+    color: rgb(199, 25, 25);
+}
+.ico-ley{
+    text-align: center;
+}
+.ico-ley i{
+    padding: 0 31px;
+}
+.bottom-ley p{
+    text-align: center;
+    background-color: #252525;
+    color: white;
+    margin-bottom: 0;
+    padding: 3px;
+}
+.cards .imgcrd{
+    position: relative;
+}
+.cards .overley{
+    background-color: white;
+    position: absolute;
+    width: 100%;
+    height: 75%;
+    opacity: 0;
+    transition: all .4s;
+}
+.cards .overley .ley{
+    position: absolute;
+    top: 208px;
+    width: 100%;
+    height: 100%;
+}
+.cards .overley:hover{
+    opacity: 1;
+}
+/*                                      */
+
+.data{
+    background-color: #F4F4F4;
+}
+.txts-data h5{
+    font-size: 18px;
+    line-height: 1.75;
+}
+.txts-data li{
+    font-size: 13px;
+    color: #686464;
+    text-align: start;
+    line-height: 2.4;
+}
+.imgs-dat {
+    width: 40%;
+}
+.bg-white{
+    background-color: white;
+}
+/*                                  */
+
+.text-img-card span{
+    font-size: 14px;
+    color: gray;
+    padding-bottom: 16px;
+    display: inline-block;
+}
+.text-img-card p{
+    font-size: 15px;
+    font-weight: 400;
+    font-style: italic;
+    color: gray;
+} 
+.text-img-card span i{
+    font-size: 11px;
+}
+.text-img-card h2{
+    font-size: 20px;
+    padding: 20px 0;
+}
+.scale{
+    transform: scale(1.1);
+}
+.txt2 h4 a{
+    color: black;
+    font-size: 16px;
+}
+.txt2 p{
+    color: gray;
+    font-size: 14px;
+}
+.botm span i{
+    font-size: 65px;
+    font-style: normal;
+}
+.hover:hover a{
+    color: rgba(0, 0, 255, 0.881);
+}
+.hover:hover span{
+    transform: rotateX(360deg);
+}
+/*                                        */
+
+.bg-2{
+    height: auto;
+    background-image: url(../../img/bg-2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-2 h2{
+    color: white;
+    font-size: 35px;
+    line-height: 1.4;
+}
+.bg-2 span{
+    display: block;
+    font-size: 12px;
+    line-height: 1;
+    font-weight: 600;
+    color: #ff6000;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.bg-2 .right-item .btn{
+    font-size: 12px;
+    font-weight: 500;
+    color: #ff6000;
+    background: #fff;
+    border-radius: 0;
+    letter-spacing: 2px;
+    padding: 14px 26px;
+    margin-bottom: 12px;
+    transition: all .4s;
+}
+.bg-2 .right-item .btn:hover{
+    background-color: #ff6000;
+    color: white;
+}
+.bg-2 .info-right :nth-child(2){
+    background: #ff6000;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1;
+    padding: 12px 17px 8px 17px;
+}
+.bg-2 .info-right :nth-child(1){
+    transform: rotate(270deg);
+    font-size: 12px;
+    font-weight: 700;
+}
+.bg-2 .info-right :nth-child(3){
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+    margin-left: 10px
+}
+/*                                  */
+
+.end{
+    background-color: #F5F4EE;
+}
+.end .leftp p{
+    font-size: 14px;
+    color: gray;
+}
+.end .leftp h2{
+    font-size: 20px;
+}
+.btn-rt{
+    position: relative;
+}
+.btn-rt .yellow-btn{
+    background: #f7ba01;
+    height: 100%;
+    padding-right: 38px;
+    padding-left: 38px;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+.btn-rt .search{
+    border: 1px solid white;
+    padding: 13px 40px;
+    border-radius: 5px;
+}
+.ul-color li a{
+    color: gray;
+}
+.ul-color li a:hover{
+    color: blue;
+}
